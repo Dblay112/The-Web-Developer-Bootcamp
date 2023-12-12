@@ -1,0 +1,39 @@
+
+dy {
+    border: 20px solid #BDC3C7;
+    padding: 20px;
+    max-width: 700px;
+    width: 80%;
+    margin: 20px auto;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.bacon {
+    border-left: 5px solid #BDC3C7;
+    padding-left: 5px;
+}
+
+.date {
+    text-transform: uppercase;
+    color: #3498DB;
+    letter-spacing: 0.2rem;
+}
+
+.post {
+    margin-bottom: 20px;
+
+}
+
+h2 {
+    color: #2C3E50;
+    font-size: 2.0rem;
+    font-weight: bold;
+}
+
+hr {
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
